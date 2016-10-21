@@ -6,6 +6,12 @@ Date: October 25, 2016, 4:00pm - 6:30pm
 
 Place: Las Vegas, Mandalay Bay - Bayside F - 13
 
+Description: Learn how IBM Data Science Experience can be used in early the stages of a data science project to create models that can then be scaled. By making it easy to change Spark instances with Jupyter notebooks or RStudio, Data Science Experience makes it easy to scale up when you are ready.
+
+Speakers:   
+ - Brandon MacKenzie, IBM
+ - Greg Filla, IBM
+
 # Instructions:
 
 #Step 1. Get on IBM Data Science Experience (DSX).
@@ -61,7 +67,7 @@ Place: Las Vegas, Mandalay Bay - Bayside F - 13
 #Step 3. Get the data into DSX
 
 1. Download this repository to your computer to access the data stored in the data directory.
->  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/download-zip.png?raw=true"/>
+>  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/download-zip.png?raw=true" width="443" height="201" />
 2. Unzip this zip file on your computer so you have a directory with all the assets in the repository.  We will be using the data from the data directory.
 
 2. Go to your recently created project on DSX and click on the add data assets + icon
