@@ -55,19 +55,19 @@ Speakers:
 
 2. Click on the create project icon on the top right of the project list.
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/create-new-project.png?raw=true"/>
+ >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/create-new-project.png?raw=true" />
 
 3. Type a name for your project. For instance, "DSX Lab". A Spark service and an object storage will be automatically selected as well as a container with a default name. A container is a directory on the object storage. Click on Create.
 
  > You are now in your new project where you can create notebooks and data assets as well as add collaborators.
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/create-project.png?raw=true"/>
+ >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/create-project.png?raw=true" width="512" height="499" />
 
 
 #Step 3. Get the data into DSX
 
-1. Download this repository to your computer to access the data stored in the data directory.
->  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/download-zip.png?raw=true" width="443" height="201" />
+1. [Click here to download this repository](https://github.com/IBMDataScience/wow-lab-to-production/archive/master.zip) to your computer to access the data stored in the data directory.
+
 2. Unzip this zip file on your computer so you have a directory with all the assets in the repository.  We will be using the data from the data directory.
 
 2. Go to your recently created project on DSX and click on the add data assets + icon
