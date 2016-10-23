@@ -60,10 +60,18 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
 
  1.  From the your project page, on the "Overview" tab click "add notebook"
 
- 2.  In the next screen named “Create Notebook”, switch to “From File” tab, name the notebook “My Lab”, and choose the notebook file on your disk from the archive: notebooks/FARS_LAB.ipynb
+ 2.  In the next screen named “Create Notebook” 
+ 
+ >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/NewNotebook.png"/>
+ 
+ 3. Enter Name, Description, Select from URL and put Git Raw URL for notebook.
+ URL: 
+
+ >  <img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/LN2.png"/>
 
  3. Click on Create Notebook
 
- 4. Follow the instructions in the notebook to complete the hands on exercise
+#Step 4. Put data into Object Store
+
 
 
