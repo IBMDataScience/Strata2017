@@ -1,13 +1,7 @@
-#Hands on Lab - World of Watson, October 2016
+<img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/logo.png">
+#Hands on Lab - Data Science Experience
 
-Session Name: From Lab to Production: Scale Up Your Data Science with IBM Data Science Experience
-
-Date: October 25, 2016, 4:00pm - 6:30pm
-
-Place: Las Vegas, Mandalay Bay - Bayside F - 13
-
-Description: Learn how IBM Data Science Experience can be used in early the stages of a data science project to create models that can then be scaled. By making it easy to change Spark instances with Jupyter notebooks or RStudio, Data Science Experience makes it easy to scale up when you are ready.
-
+Description: Follow this lab and perform hands on exercises with IBM Data Science Expereince. Use a public data set of car accidents in united states and perform basic corrolations. Data Science Experience allows you to easily develop and share a model that scales using Apache Spark, Python or RStudio. 
 
 # Instructions:
 
