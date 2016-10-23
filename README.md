@@ -67,7 +67,7 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
  3. Enter Name, Description, Select from URL and put Git Raw URL for notebook.
  URL: 
 
- >  <img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/LN2.png" width="250"/>
+ >  <img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/LN2.png" width="512"/>
 
  3. Click on Create Notebook
 
