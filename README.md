@@ -60,12 +60,11 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
 
  1.  From the your project page, on the "Overview" tab click "add notebook"
 
- 2.  In the next screen named “Create Notebook” 
+ 2.  Click “Add Notebook” 
  
  >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/NewNotebook.png"/>
  
- 3. Enter Name, Description, Select from URL and put Git Raw URL for notebook.
- URL: 
+ 3. Enter a notbook Name, Description and Select from URL then enter notbook Raw URL https://raw.githubusercontent.com/IBMDataScience/WOW2016/master/VehicleAccidentLab.ipynb
 
  >  <img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/LN2.png" width="512"/>
 
