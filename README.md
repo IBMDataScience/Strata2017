@@ -76,7 +76,7 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
 
  3. Click on Create Notebook
 
-#Step 4. Follow Instructions in Notbook.
+#Step 5. Follow Instructions in Notbook.
 
 
 
