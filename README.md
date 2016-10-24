@@ -54,36 +54,7 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
 
  >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/create-project.png?raw=true" width="512" height="499" />
 
-#Step 3. Put data into DSx
-
-1. [Click here to download this repository](https://github.com/IBMDataScience/wow-lab-to-production/archive/master.zip) to your computer to access the data stored in the data directory.
-
-2. Unzip this zip file on your computer so you have a directory with all the assets in the repository.  We will be using the data from the data directory.  The screenshot below shows dragging the contents to the desktop for easy access:
-
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/open-data-set.png"/>
-
-2. Go to your recently created project on DSX and click on the add data assets + icon
-
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/add-data-asset.png"/>
-
-3. Click on the Add file and select the transactions.csv file from your computer and click on open
-
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/add-file.png" width="450" height="275"/>
-
-5. Once the file is loaded, click on Apply to add this file to your project.
-
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/apply-file.png" width="450" height="275"/>
- 
- > Click Apply on the pop-up:
- 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/apply-changes.png" width="500" height="225"/>
-
-  > You should see transactions.csv under the data assets list of your project. Your data is  now loaded in your object storage in the container associated to your project. If your project name is "DSX Lab", the default container name is DSXLab (unless you change to a different name on Step 2, part 3).
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/project-view.png"/>
-
-
-#Step 4. Create a new notebook.
-
+#Step 3. Create a new notebook.
 
  1.  From the your project page, on the "Overview" tab click "add notebook"
 
@@ -96,8 +67,8 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
  >  <img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/LN2.png" width="512"/>
 
  3. Click on Create Notebook
- 
- 4. Follow Steps in Notbook.
+
+#Step 4. Follow Instructions in Notbook.
 
 
 
