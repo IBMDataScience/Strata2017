@@ -56,11 +56,11 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
 
 #Step 3. Download Repository.
 
- 1. Download Git Repo to local directory.
+ 1. Download Repository from github https://github.com/IBMDataScience/WOW2016 to local directory.
  
  >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/Zip.png"/>
  
- 2. Unzip files locally.
+ 2. Unzip repo zip files locally.
 
 #Step 4. Create a new notebook.
 
