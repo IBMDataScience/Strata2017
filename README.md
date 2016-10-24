@@ -54,7 +54,15 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
 
  >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/create-project.png?raw=true" width="512" height="499" />
 
-#Step 3. Create a new notebook.
+#Step 3. Download Repository.
+
+ 1. Download Git Repo to local directory.
+ 
+ >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/Zip.png"/>
+ 
+ 2. Unzip files locally.
+
+#Step 4. Create a new notebook.
 
  1.  From the your project page, on the "Overview" tab click "add notebook"
 
@@ -62,9 +70,9 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
  
  >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/NewNotebook.png"/>
  
- 3. Enter a notbook Name, Description and Select from URL then enter notbook Raw URL, Copy and Paste this URL: https://raw.githubusercontent.com/IBMDataScience/WOW2016/master/VehicleAccidentLab.ipynb
+ 3. Enter a notbook Name, Description and pick from File, click browse and pick VehicleAccidentLab.ipynb file downloaded. 
 
- >  <img src="https://github.com/ibmdataworks/datafirst/blob/master/datascientist/media/LN2.png" width="512"/>
+ >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/NBFF.png" width="512"/>
 
  3. Click on Create Notebook
 
