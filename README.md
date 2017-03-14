@@ -57,6 +57,7 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
  >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/create-project.png?raw=true" width="512" height="499" />
 
 # Step 3. Download Repository.
+## If you are at IBM Booth, then you can skip this part as the files are located on your desktop.
 
  1. Download Repository from github https://github.com/IBMDataScience/WOW2016 to local directory.
  
