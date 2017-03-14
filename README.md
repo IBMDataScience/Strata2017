@@ -14,7 +14,9 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
 
  > <img src="https://raw.githubusercontent.com/IBMDataScience/Strata2017/master/images/DSX%20Sign%20Up.png">
 
-3. If you have a Bluemix account you can click continue with Bluemix credentials, otherwise click create your Bluemix account and enter your email.
+3. Enter your email and press continue. Note: If you have a Bluemix account you can click continue with Bluemix credentials, otherwise click create your Bluemix account and enter your email.
+
+> <img src="https://raw.githubusercontent.com/IBMDataScience/Strata2017/master/images/Enter%20Email.png">
 
 4. You should get an email from "ibmacct" with your IBMid Confirmation code
 
@@ -22,7 +24,7 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
 
 5. Then, on the next page fill in the corresponding fields and click CREATE ACCOUNT
 
- > <img src="https://github.com/ibmdataworks/datafirst/blob/master/appdeveloper/media/image3.png?raw=true" width="624" height="300" />
+ > <img src="https://raw.githubusercontent.com/IBMDataScience/Strata2017/master/images/Enter.png" width="624" height="300" />
 
 6. In the new page, write your email and click CONTINUE
 
