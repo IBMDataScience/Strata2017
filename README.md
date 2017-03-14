@@ -73,13 +73,13 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
  
  >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/NewNotebook.png"/>
  
- 3. Enter a notbook Name, Description and pick from File, click browse and pick VehicleAccidentLab.ipynb file downloaded. 
+ 3. Enter a notebook Name, Description and pick from File, click browse and pick VehicleAccidentLab.ipynb file downloaded. 
 
  >  <img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/NBFF.png" width="512"/>
 
  3. Click on Create Notebook
 
-# Step 5. Follow Instructions in Notbook.
+# Step 5. Follow Instructions in Notebook.
 
 
 
