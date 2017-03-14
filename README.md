@@ -12,15 +12,15 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
 
 2.  Click the signup button on the top right
 
- > <img src="https://raw.githubusercontent.com/IBMDataScience/Strata2017/master/images/DSX%20Sign%20Up.png">
+ > <img src="https://raw.githubusercontent.com/IBMDataScience/Strata2017/master/images/DSX%20Sign%20Up.png" width="624" height="300" />
 
 3. Enter your email and press continue. Note: If you have a Bluemix account you can click continue with Bluemix credentials, otherwise click create your Bluemix account and enter your email.
 
-> <img src="https://raw.githubusercontent.com/IBMDataScience/Strata2017/master/images/Enter%20Email.png">
+> <img src="https://raw.githubusercontent.com/IBMDataScience/Strata2017/master/images/Enter%20Email.png" width="624" height="300" />
 
 4. You should get an email from "ibmacct" with your IBMid Confirmation code
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/confirmation-code.png?raw=true"/>
+ >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/confirmation-code.png?raw=true" width="624" height="300" />
 
 5. Then, on the next page fill in the corresponding fields and click CREATE ACCOUNT
 
@@ -28,11 +28,11 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
 
 6. In the new page, write your email and click CONTINUE
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/enter-email.png?raw=true" width="624" height="300" />
+ >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/enter-email.png?raw=true"/>
 
 7. Write your recently generated password and click on SIGN IN
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/enter-password.png?raw=true" width="624" height="300" />
+ >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/enter-password.png?raw=true"/>
 
 8. It will take a minute to create your account. When ready, click on Get Started.
 
