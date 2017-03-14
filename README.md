@@ -28,11 +28,11 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
 
 6. In the new page, write your email and click CONTINUE
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/enter-email.png?raw=true"/>
+ >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/enter-email.png?raw=true" width="624" height="300" />
 
 7. Write your recently generated password and click on SIGN IN
 
- >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/enter-password.png?raw=true"/>
+ >  <img src="https://github.com/IBMDataScience/wow-lab-to-production/blob/master/images/enter-password.png?raw=true" width="624" height="300" />
 
 8. It will take a minute to create your account. When ready, click on Get Started.
 
