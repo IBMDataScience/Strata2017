@@ -12,7 +12,7 @@ Description: Follow this lab and perform hands on exercises with IBM Data Scienc
 
 2.  Click the signup button on the top right
 
- > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DSX Sign On.png">
+ > <img src="https://raw.githubusercontent.com/IBMDataScience/Strata2017/master/images/DSX%20Sign%20Up.png">
 
 3. If you have a Bluemix account you can click continue with Bluemix credentials, otherwise click create your Bluemix account and enter your email.
 
